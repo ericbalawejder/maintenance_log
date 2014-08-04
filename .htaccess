@@ -1,0 +1,2 @@
+RedirectMatch 404 "/setup(/.*)?$"
+RedirectMatch 404 "/include(/.*)?$"
